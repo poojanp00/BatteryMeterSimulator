@@ -5,8 +5,13 @@
 
 ## Usage
 > make batt_main
+
 > ./batt_main 7884 V      (volts option)
+> 
+
 OR 
+
+
 > ./batt_main 7884 P      (percentage option)
 
 ## Contributing
